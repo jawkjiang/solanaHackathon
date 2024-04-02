@@ -1,0 +1,62 @@
+[{
+	"name": "Twilight Whisper",
+	"symbol": "TWS",
+	"description": "A cocktail capturing dusk's magic with purple hues, vodka, blackberry liqueur, lime, and a hint of sweetness, garnished with lemon and blackberries.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F04902ad3-6d7c-4dc6-9904-f5b56f7006b9%2FNight_Whisper.jpg?table=block&id=af9b0605-894c-454f-91e0-841b0056ccf3&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2"
+}
+, 
+{
+	"name": "Azure Seascape",
+	"symbol": "ASC",
+	"description": "A refreshing ocean-inspired cocktail blending clear blue spirits with citrus for a seaside experience. Served in a tall glass with ice, lemon, and mint.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F0562f311-c062-4726-b1df-ef273668db93%2FAzure_Seascape.jpg?table=block&id=dad3420a-b951-49ff-9220-cababcf1a937&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2"
+}
+, 
+{
+	"name": "Blockchain Elixir",
+	"symbol": "BCE",
+	"description": "A cocktail symbolizing blockchain's structure with layers of vodka, blue curaçao, lemon-lime soda, and edible gold flakes, garnished with a QR code.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2Ff6c1e485-9089-4976-a872-147db8789e7b%2FWechatIMG90b30c6429eb08cfce19557881a98ee1.jpg?table=block&id=c4235cf6-2307-401b-8e00-d815c989637b&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2"
+}
+, 
+{
+	"name": "Satoshi Spritz",
+	"symbol": "SPZ",
+	"description": "Named after Bitcoin's creator, this drink mixes prosecco, peach liqueur, and soda, garnished with a chocolate coin, embodying digital wealth.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F8d36d9d6-d6ac-49be-a7ad-5a07ab36c90c%2FWechatIMG78e452aa2b83f402f19bc904e48268be.jpg?table=block&id=858ca7aa-6664-485e-abca-2f192bb40ebc&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2"
+}
+, 
+{
+	"name": "Ether Fizz",
+	"symbol": "ETF",
+	"description": "Inspired by Ethereum, this cocktail has a butterfly pea flower-induced color shift, garnished with lemon, symbolizing blockchain innovation.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F5aa840a5-c304-4096-b4fc-0dad3c89c4c7%2FWechatIMG08b957c7ee38a4ebc8a43cc1bd6c939a.jpg?table=block&id=93403dab-6884-4026-ae74-ff4b64bd861f&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2"
+}
+, 
+{
+	"name": "Crypto Colada",
+	"symbol": "CCL",
+	"description": "A tropical blend with coconut, pineapple, and mango, featuring a sprinkle of edible silver dust, served with a crypto-themed umbrella.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2Fb66c4df2-a182-468f-b27e-b550e6dbfc83%2FSatoshi_Spritz.jpg?table=block&id=d96742f1-7b88-4cdf-bcf5-95f40d6661b4&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2"
+}
+, 
+{
+	"name": "Forest Murmur",
+	"symbol": "FMU",
+	"description": "An enchanted forest in a glass, with gin, elderflower, green chartreuse, and matcha, rimmed with edible flowers, invoking serene forest vibes.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F07f73a8e-25c4-47f4-b56d-31b6b198d2e4%2FForest_Murmur.jpg?table=block&id=68054ddb-0a88-4fba-b21f-b314c8a2fa8d&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2"
+}
+, 
+{
+	"name": "Mythical Brew",
+	"symbol": "MYB",
+	"description": "A warm blend of mead, spiced cider, and ginger liqueur, garnished with cinnamon and orange, served in a clay mug, echoing ancient myths.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F8f198c30-e05b-4641-ae3b-50e131643690%2FMythical_Brew.jpg?table=block&id=7bd33f23-2e01-4f50-aa88-3cd20c8ffca9&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2"
+}
+, 
+{
+	"name": "Sunset Serenade",
+	"symbol": "SSD",
+	"description": "A cocktail that mirrors the sunset with tequila, orange liqueur, lime, and cranberry juice, garnished with lime and cherry.",
+	"image": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F35f8350f-f89d-4e00-8227-c2b1ea49f584%2FSunset_Serenade.jpg?table=block&id=6571d13a-ea5d-4bbc-9169-b99be31b4e7d&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=1420&userId=&cache=v2"
+}]
