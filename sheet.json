@@ -1,0 +1,35 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "routes": [
+            {
+                "route": 0,
+                "totalRawPrice": 0.02,
+                "totalToken": 0,
+                "tokenToBuy": 0,
+                "priceBuyingToken": 0,
+                "totalDiscountPrice": 0,
+                "totalPrice": 0.02
+            },
+            {
+                "route": 1,
+                "totalRawPrice": 0.02,
+                "totalToken": 0,
+                "tokenToBuy": 0,
+                "priceBuyingToken": 0,
+                "totalDiscountPrice": 0,
+                "totalPrice": 0.02
+            },
+            {
+                "route": 2,
+                "totalRawPrice": 0.02,
+                "totalToken": 30,
+                "tokenToBuy": 30,
+                "priceBuyingToken": 0.003,
+                "totalDiscountPrice": 0.003,
+                "totalPrice": 0.017
+            }
+        ]
+    }
+}

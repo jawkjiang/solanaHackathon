@@ -1,0 +1,79 @@
+[{
+    "NFTId": "000001",
+	"name": "Twilight Whisper",
+	"description": "A cocktail capturing dusk's magic with purple hues, vodka, blackberry liqueur, lime, and a hint of sweetness, garnished with lemon and blackberries.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2Fab7cd2b7-a098-4da5-a36d-65e49407d658%2FNight_Whisper.jpg?table=block&id=2c591cdb-815d-49d3-b9b0-badb59842896&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=1420&userId=&cache=v2",
+    "contract": "hjduiwhaiudhiwqja"
+}
+, 
+{
+    "NFTId": "000002",
+	"name": "Azure Seascape",
+    "price": 0.121,
+	"description": "A refreshing ocean-inspired cocktail blending clear blue spirits with citrus for a seaside experience. Served in a tall glass with ice, lemon, and mint.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F3089a216-690d-4424-8e3a-f98f0abdaf3e%2FAzure_Seascape.jpg?table=block&id=3ca62df2-13ac-4a9a-acfe-77fd0f28a222&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=1420&userId=&cache=v2",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000003",
+	"name": "Blockchain Elixir",
+    "price": 0.234,
+	"description": "A cocktail symbolizing blockchain's structure with layers of vodka, blue curaçao, lemon-lime soda, and edible gold flakes, garnished with a QR code.",
+	"URL": "https://file.notion.so/f/f/c57373f7-f233-48a8-a7f9-6d04e6ada65f/44cb0c00-6a73-4562-861e-b2ff0c7dce8e/90b30c6429eb08cfce19557881a98ee1.pic?id=de755312-6ef2-4fa2-9941-3b817c48bbc0&table=block&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&expirationTimestamp=1712052000000&signature=mejuD7z5gq17vI0_R38mdqNgm1nHyvPtqCtSwYahUQY",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000004",
+	"name": "Satoshi Spritz",
+    "price": 0.198,
+	"description": "Named after Bitcoin's creator, this drink mixes prosecco, peach liqueur, and soda, garnished with a chocolate coin, embodying digital wealth.",
+	"URL": "https://file.notion.so/f/f/c57373f7-f233-48a8-a7f9-6d04e6ada65f/2d71cb74-a22c-43c6-8975-b01a1393d2b3/78e452aa2b83f402f19bc904e48268be.pic?id=a9abff0b-0859-400b-a80f-2e6461b7a506&table=block&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&expirationTimestamp=1712052000000&signature=qOhSBfVH0HpyyZ7Vfa6PA3nr-N5yGntbZ46s2EiDP7k",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000005",
+	"name": "Ether Fizz",
+    "price": 0.177,
+	"description": "Inspired by Ethereum, this cocktail has a butterfly pea flower-induced color shift, garnished with lemon, symbolizing blockchain innovation.",
+	"URL": "https://file.notion.so/f/f/c57373f7-f233-48a8-a7f9-6d04e6ada65f/782d4b1b-e1ca-4bfc-8584-232eac3925c8/08b957c7ee38a4ebc8a43cc1bd6c939a.pic?id=05e3c52a-8a69-4a7f-8e03-f5a92c92fbe0&table=block&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&expirationTimestamp=1712052000000&signature=OXQoM7c-ajXDidlOIWG6O_1xXEKMrJrKLHWrVK1eMEY",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000006",
+	"name": "Crypto Colada",
+    "price": 0.209,
+	"description": "A tropical blend with coconut, pineapple, and mango, featuring a sprinkle of edible silver dust, served with a crypto-themed umbrella.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F741db671-1f3f-48d4-8599-90deb9ba5657%2FSatoshi_Spritz.jpg?table=block&id=4ae4e03f-7734-4551-8671-e89447952ed1&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000007",
+	"name": "Forest Murmur",
+    "price": 0.155,
+	"description": "An enchanted forest in a glass, with gin, elderflower, green chartreuse, and matcha, rimmed with edible flowers, invoking serene forest vibes.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F9e816d54-81dd-45e1-9e8a-9145a8f16b7b%2FForest_Murmur.jpg?table=block&id=785cc9aa-fc48-4134-a21b-c8123a8de6a5&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000008",
+	"name": "Mythical Brew",
+    "price": 0.199,
+	"description": "A warm blend of mead, spiced cider, and ginger liqueur, garnished with cinnamon and orange, served in a clay mug, echoing ancient myths.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F64b9bc72-ee2b-4024-be8e-af4912060872%2FMythical_Brew.jpg?table=block&id=c729cfed-8c93-407c-807f-8b5aeca7e356&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=2000&userId=&cache=v2",
+    "maxTokenPerNFT": 600
+}
+, 
+{
+    "NFTId": "000009",
+	"name": "Sunset Serenade",
+    "price": 0.177,
+	"description": "A cocktail that mirrors the sunset with tequila, orange liqueur, lime, and cranberry juice, garnished with lime and cherry.",
+	"URL": "https://va7.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc57373f7-f233-48a8-a7f9-6d04e6ada65f%2F7be63ac6-e63f-4f0a-9fe1-f2ff61862770%2FSunset_Serenade.jpg?table=block&id=fe728637-71ca-4033-99d6-b26863bca183&spaceId=c57373f7-f233-48a8-a7f9-6d04e6ada65f&width=660&userId=&cache=v2",
+    "maxTokenPerNFT": 600
+}]

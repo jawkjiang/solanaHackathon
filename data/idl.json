@@ -1,0 +1,225 @@
+{
+    "version": "0.1.0",
+    "name": "metana_nft",
+    "instructions": [
+        {
+            "name": "initFt",
+            "accounts": [
+                {
+                    "name": "ftPrice",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "metadata",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "mint",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "payer",
+                    "isMut": true,
+                    "isSigner": true
+                },
+                {
+                    "name": "rent",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "systemProgram",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "tokenProgram",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "tokenMetadataProgram",
+                    "isMut": false,
+                    "isSigner": false
+                }
+            ],
+            "args": [
+                {
+                    "name": "metadata",
+                    "type": {
+                        "defined": "InitTokenParams"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "buyFt",
+            "accounts": [
+                {
+                    "name": "mintCredit",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "destinationCredit",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "mint1",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "destination1",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "ftPrice1",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "mint2",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "destination2",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "ftPrice2",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "mint3",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "destination3",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "ftPrice3",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "payer",
+                    "isMut": true,
+                    "isSigner": true
+                },
+                {
+                    "name": "solRecipient",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "creditRecipient",
+                    "isMut": true,
+                    "isSigner": false
+                },
+                {
+                    "name": "rent",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "systemProgram",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "tokenProgram",
+                    "isMut": false,
+                    "isSigner": false
+                },
+                {
+                    "name": "associatedTokenProgram",
+                    "isMut": false,
+                    "isSigner": false
+                }
+            ],
+            "args": [
+                {
+                    "name": "quantitys",
+                    "type": {
+                        "array": [
+                            "u64",
+                            3
+                        ]
+                    }
+                },
+                {
+                    "name": "useCredit",
+                    "type": "bool"
+                },
+                {
+                    "name": "swapCredits",
+                    "type": "u64"
+                }
+            ]
+        }
+    ],
+    "accounts": [
+        {
+            "name": "Price",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "string"
+                    },
+                    {
+                        "name": "price",
+                        "type": "u64"
+                    }
+                ]
+            }
+        }
+    ],
+    "types": [
+        {
+            "name": "InitTokenParams",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "symbol",
+                        "type": "string"
+                    },
+                    {
+                        "name": "uri",
+                        "type": "string"
+                    },
+                    {
+                        "name": "decimals",
+                        "type": "u8"
+                    },
+                    {
+                        "name": "id",
+                        "type": "string"
+                    },
+                    {
+                        "name": "price",
+                        "type": "u64"
+                    }
+                ]
+            }
+        }
+    ]
+}
